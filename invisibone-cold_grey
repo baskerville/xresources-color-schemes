@@ -1,27 +1,27 @@
 #include "monotones-cold_grey"
 
 !RED
-URxvt.color1:  #D77F80
-URxvt.color9:  #FFB5B5
+URxvt.color1:  #DB73A8
+URxvt.color9:  #FFABE0
 
 !GRN
-URxvt.color2:  #4FAB55
-URxvt.color10: #87E389
-
-!BLU
-URxvt.color4:  #8E8FE9
-URxvt.color12: #C6C5FF
+URxvt.color2:  #69A53F
+URxvt.color10: #A0DC76
 
 !YEL
-URxvt.color3:  #C58C5A
-URxvt.color11: #FFC18D
+URxvt.color3:  #B98D59
+URxvt.color11: #F0C390
 
-!CYN
-URxvt.color6:  #35AB73
-URxvt.color14: #72E4A7
+!BLU
+URxvt.color4:  #7499CD
+URxvt.color12: #A9D0FF
 
 !MAG
-URxvt.color5:  #B380F1
-URxvt.color13: #EDB5FF
+URxvt.color5:  #BC7BE8
+URxvt.color13: #F3B3FF
+
+!CYN
+URxvt.color6:  #3BA977
+URxvt.color14: #77E0AD
 
 ! vim: set ft=xdefaults:

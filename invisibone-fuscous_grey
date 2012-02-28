@@ -1,27 +1,27 @@
 #include "monotones-fuscous_grey"
 
 !RED
-URxvt.color1:  #E2898A
-URxvt.color9:  #FFBFBF
+URxvt.color1:  #E77DB2
+URxvt.color9:  #FFB6EB
 
 !GRN
-URxvt.color2:  #5AB55F
-URxvt.color10: #92ED93
-
-!BLU
-URxvt.color4:  #9899F4
-URxvt.color12: #D1CFFF
+URxvt.color2:  #74B049
+URxvt.color10: #ABE880
 
 !YEL
-URxvt.color3:  #D09563
-URxvt.color11: #FFCC97
+URxvt.color3:  #C59763
+URxvt.color11: #FCCE9A
 
-!CYN
-URxvt.color6:  #41B67C
-URxvt.color14: #7CEEB1
+!BLU
+URxvt.color4:  #7EA4D9
+URxvt.color12: #B4DBFF
 
 !MAG
-URxvt.color5:  #BE89FC
-URxvt.color13: #F8C0FF
+URxvt.color5:  #C886F3
+URxvt.color13: #FFBEFF
+
+!CYN
+URxvt.color6:  #47B481
+URxvt.color14: #82ECB8
 
 ! vim: set ft=xdefaults:

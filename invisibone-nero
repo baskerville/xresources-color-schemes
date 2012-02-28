@@ -1,27 +1,28 @@
 #include "monotones-nero"
 
 !RED
-URxvt.color1:  #CC7677
-URxvt.color9:  #FFABAB
+URxvt.color1:  #D0689D
+URxvt.color9:  #FFA0D5
 
 !GRN
-URxvt.color2:  #45A04C
-URxvt.color10: #7DD87F
-
-!BLU
-URxvt.color4:  #8385DE
-URxvt.color12: #BCBBFF
+URxvt.color2:  #5E9A34
+URxvt.color10: #95D16B
 
 !YEL
-URxvt.color3:  #BA8251
-URxvt.color11: #F5B783
+URxvt.color3:  #AE8250
+URxvt.color11: #E4B885
 
-!CYN
-URxvt.color6:  #27A169
-URxvt.color14: #67D99D
+!BLU
+URxvt.color4:  #698FC2
+URxvt.color12: #9EC5F9
 
 !MAG
-URxvt.color5:  #A976E6
-URxvt.color13: #E2ABFF
+URxvt.color5:  #B171DC
+URxvt.color13: #E8A8FF
+
+!CYN
+URxvt.color6:  #2E9E6C
+URxvt.color14: #6CD5A3
 
 ! vim: set ft=xdefaults:
+
