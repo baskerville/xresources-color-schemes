@@ -1,0 +1,25 @@
+#include "monotones-dark"
+
+! RED
+URxvt.color1:  #C45152
+URxvt.color9:  #FFA4A4
+
+! GRN
+URxvt.color2:  #2A8857
+URxvt.color10: #81DAA6
+
+! YEL
+URxvt.color3:  #A46937
+URxvt.color11: #F8BA86
+
+! BLU
+URxvt.color4:  #6178AC
+URxvt.color12: #B1C8FD
+
+! MAG
+URxvt.color5:  #C34C82
+URxvt.color13: #FFA0D5
+
+! CYN
+URxvt.color6:  #318485
+URxvt.color14: #86D6D5

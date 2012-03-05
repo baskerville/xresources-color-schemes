@@ -9,3 +9,7 @@
 **invisibone-fuscous\_grey**
 
 ![if](https://github.com/baskerville/xresources-color-schemes/raw/master/previews/invisibone-fuscous_grey.png)
+
+**raven-dark**
+
+![if](https://github.com/baskerville/xresources-color-schemes/raw/master/previews/raven-dark.png)
